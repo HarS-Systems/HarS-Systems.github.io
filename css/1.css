@@ -21,9 +21,16 @@ aside { width:26.04166666666667%;}
 footer { clear:both;}
 
 
-.wrapper {
+.grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 200px;
   outline-style: solid;
   outline-color: coral
+}
+
+.grid-item {
+  background-color: white;
+  border: 1px solid coral;
+  text-align: center;
 }
