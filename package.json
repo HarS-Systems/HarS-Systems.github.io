@@ -1,1 +1,19 @@
-
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is...",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harry41108/harry41108.github.io"
+  },
+  "author": "Harry Mok",
+  "license": "ISC",
+  "homepage": "https://harry41108.github.io/",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
