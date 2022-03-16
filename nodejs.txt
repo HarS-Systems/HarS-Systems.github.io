@@ -1,1 +1,0 @@
-/* MySQL / MongoDB / AWS DynamoDB / PostgreSQL / Cassandra */
